@@ -2,6 +2,7 @@ CA = []; % total Cover Area
 BA = []; % Blind Area
 rot = []; % rotate Degree
 count = 1;
+ffff;
 for ii = 0
     TRUCK = [0 0 4.2 2];
     VFOV = 82;
